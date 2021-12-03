@@ -1,0 +1,24 @@
+[submodule ".vim/pack/plugins/start/jedi-vim"]
+	path = .vim/pack/plugins/start/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule ".vim/pack/plugins/start/vim-flake8"]
+	path = .vim/pack/plugins/start/vim-flake8
+	url = https://github.com/nvie/vim-flake8
+[submodule ".vim/pack/plugins/start/vim-fugitive"]
+	path = .vim/pack/plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule ".vim/pack/plugins/start/solarized"]
+	path = .vim/pack/plugins/start/solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule ".vim/pack/plugins/start/nerdcommenter"]
+	path = .vim/pack/plugins/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule ".vim/pack/plugins/start/ack"]
+	path = .vim/pack/plugins/start/ack
+	url = https://github.com/mileszs/ack.vim.git
+[submodule ".vim/pack/plugins/start/nerdtree"]
+	path = .vim/pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/pack/plugins/start/supertab"]
+	path = .vim/pack/plugins/start/supertab
+	url = https://github.com/ervandew/supertab.git
