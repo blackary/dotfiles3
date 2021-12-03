@@ -15,6 +15,6 @@ things into bootstrap scripts within yadm
 * MiddleClick # enabling middle-click with magic mouse
 * Mini Calendar
 * Rectangle # window management
-* Warp
+* Warp #warp.dev
 * alfred
 * Slack
