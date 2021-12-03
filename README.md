@@ -1,14 +1,6 @@
 # Dotfiles, mac-specific, managed with yadm
 
-Install yadm, and then yadm clone, and then off to the races!
-
-> These are contained in the .install.sh script
-
-```
-git clone https://github.com/TheLocehiliosan/yadm.git ~/.yadm-project
-~/.yadm-project clone git@github.com:blackary/dotfiles3.git
-yadm bootstrap
-```
+To install, use the `.install.sh` script
 
 
 ## Other things to install:

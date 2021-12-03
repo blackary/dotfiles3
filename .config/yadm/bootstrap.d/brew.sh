@@ -10,9 +10,9 @@ if [ "$system_type" = "Darwin" ]; then
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   fi
 
-  if [ -f "$HOME/Brewfile" ]; then
+  if [ -f "$HOME/.Brewfile" ]; then
     echo "Updating homebrew bundle"
-    /opt/homebrew/bin/brew bundle --global
+    brew bundle --global
   fi
 
 fi
