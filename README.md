@@ -5,8 +5,8 @@ Install yadm, and then yadm clone, and then off to the races!
 > These are contained in the .install.sh script
 
 ```
-curl -fLo /usr/local/bin/yadm https://github.com/TheLocehiliosan/yadm/raw/master/yadm && chmod a+x /usr/local/bin/yadm
-yadm clone git@github.com:blackary/dotfiles3.git
+git clone https://github.com/TheLocehiliosan/yadm.git ~/.yadm-project
+~/.yadm-project clone git@github.com:blackary/dotfiles3.git
 yadm bootstrap
 ```
 
