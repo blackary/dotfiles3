@@ -20,3 +20,4 @@ Other things to install:
 * Mini Calendar
 * Rectangle # window management
 * Warp
+* alfred
