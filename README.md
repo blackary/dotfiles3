@@ -16,5 +16,4 @@ things into bootstrap scripts within yadm
 * Mini Calendar
 * Rectangle # window management
 * Warp #warp.dev
-* alfred
 * Slack
